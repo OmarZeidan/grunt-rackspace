@@ -36,7 +36,7 @@ rackspace : {
     authKey : "1234567890abcdef1234567890abcdef"
   },
   upload : {
-    remotedir : "container"
+    remotedir : "container",
     testfiles : {
       filename : "test/*",
       remotedir : "site"
